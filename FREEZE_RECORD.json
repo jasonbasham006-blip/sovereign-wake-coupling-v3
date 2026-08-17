@@ -1,0 +1,14 @@
+{
+  "package": "sovereign_wake_coupling_v3",
+  "version": "3.0.0",
+  "status": "RESEARCH_ARTIFACT",
+  "created_utc": "2026-08-17T02:55:00Z",
+  "manifest_sha256": "89d7df536245f50a0e2d43eb3d86c47a8d114b5a223efec1d76f950d6500b049",
+  "notes": [
+    "Field Lagrangian and dispersion derived.",
+    "Source J and C_D remain phenomenological.",
+    "Single global amplitude calibrated to Uranus target only.",
+    "All other body torques are out-of-sample predictions.",
+    "Physical validation is explicitly not claimed."
+  ]
+}
